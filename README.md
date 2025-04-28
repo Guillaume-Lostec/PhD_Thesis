@@ -14,8 +14,8 @@ In this dissertation, I first propose a continuum theory of fatigue fracture in 
 
 ## 📖 View the Thesis
 
-- [Click here to view the thesis online](https://Guillaume-Lostec.github.io/PhD_Thesis/)
-- [Click here to download the PDF](./Thesis_Lostec.pdf)
+- [Click here to view the thesis online](./Thesis_Lostec.pdf)
+- [Click here to download the PDF](https://Guillaume-Lostec.github.io/PhD_Thesis/)
 
 ## 💬 Ask a Question / Join the Discussion
 
